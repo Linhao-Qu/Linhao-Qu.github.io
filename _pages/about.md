@@ -15,7 +15,7 @@ I was a visiting student from October, 2018 to June, 2019 in the National Univer
 My research interest includes computer vision and AI security. Recently, I am interested in the robustness of video models.
 
 Publications
-***
+===
 ### 2022
 * Adaptive Temporal Grouping for Black-box Adversarial Attacks on Videos   
 **Zhipeng Wei**, Jingjing Chen, Hao Zhang, Linxi Jiang, Yu-Gang Jiang    
@@ -52,6 +52,6 @@ The 34th AAAI Conference on Artificial Intelligence (**AAAI**), New York, USA, 2
 Proceedings of the 2019 on International Conference on Multimedia Retrieval (**ICMR**), 2019.
 
 Honors & Awards
-***
+===
 * Jilin University Outstanding Graduates, Jilin University, 2020.06
 * Outstanding Master's Thesis of Jilin University, Jilin University, 2020.06
