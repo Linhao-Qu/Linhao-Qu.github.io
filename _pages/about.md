@@ -16,16 +16,23 @@ Publications
 ===
 ### 2022
 * DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
-**Linhao Qu\***, xiaoyuan Luo\*, Shaolei Liu, Manning Wang, Zhijian Song    
+**Linhao Qu\***, xiaoyuan Luo\*, Shaolei Liu, Manning Wang#, Zhijian Song#    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022.
 
 * Wavelet-based self-supervised learning for multi-scene image fusion   
-Shaolei Liu\*, **Linhao Qu\***, Manning Wang, Zhijian Song    
+Shaolei Liu\*, **Linhao Qu\***, Manning Wang#, Zhijian Song#    
 Neural Computing and Applications (**IF=5.606**), 2022.
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
-**Linhao Qu\***, Shaolei Liu\*, Manning Wang, Zhijian Song    
+**Linhao Qu\***, Shaolei Liu\*, Manning Wang#, Zhijian Song#    
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+
+Preprint
+===
+### 2022
+* TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
+**Linhao Qu\***, Shaolei Liu\*, Manning Wang, Shiman Li, Siqi Yin, Qin Qiao#, Zhijian Song#  
+arXiv preprint arXiv:2201.07451, 2022.
 
 Honors & Awards
 ===
