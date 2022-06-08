@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhipeng Wei"
+  name             : "Linhao Qu"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student of FVL Group in the School of Computer Science, Fudan University"
+  bio              : "Ph.D. student of biomedical engineering in the School of Basic Medical Science, Fudan University"
   location         : "Shanghai, China"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "zpwei21@m.fudan.edu.cn"
+  email            : "lhqu20@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhipeng-wei"
+  github           : "HardworkingLittlequ"
   google_plus      :
   keybase          :
   instagram        :
