@@ -12,6 +12,8 @@ I am a Ph.D. student of biomedical engineering in the School of Basic Medi
 
 My research interests include medical image processing, information fusion and data mining.
 
+I am now a reviewer of top journal Information Fusion (IF=17.564), and top conferences NeurIPS (CCF-A) and AAAI (CCF-A).
+
 Publications
 ===
 ### 2022
@@ -25,7 +27,7 @@ Neural Computing and Applications (**IF=5.606**), 2022.
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
 **Linhao Qu\***, Shaolei Liu\*, Manning Wang#, Zhijian Song#    
-Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI CCF-A**), 2022.
 
 Preprint
 ===
