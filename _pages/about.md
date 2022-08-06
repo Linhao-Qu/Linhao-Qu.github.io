@@ -14,6 +14,11 @@ My research interests include medical image processing, information fusion and d
 
 I am now a reviewer of top journal Information Fusion (IF=17.564), and top conferences NeurIPS (CCF-A) and AAAI (CCF-A).
 
+News
+===
+* One paper has been accepted by **MICCAI** (top conference in medical image processing) !
+* One paper has been accepted by **AAAI** (CCF-A) !
+
 Publications
 ===
 ### 2022
