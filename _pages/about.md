@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of biomedical engineering in the School of Basic Medical Science, Fudan University, advised by Prof. Zhijian Song and Prof. Manning Wang. Before that, I received my B.S. degree of Marine Technology from Ocean University of China in 2020.
+I am a Ph.D. student of biomedical engineering in Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention, Digital Medical Research Center, School of Basic Medical Sciences, Fudan University, advised by Prof. Zhijian Song and Prof. Manning Wang. Before that, I received my B.S. degree of Marine Technology from Ocean University of China in 2020.
 
 My research interests include medical image processing, information fusion and data mining.
 
