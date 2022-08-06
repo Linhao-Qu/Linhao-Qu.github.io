@@ -24,15 +24,15 @@ Publications
 ### 2022
 * DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
 **Linhao Qu\***, xiaoyuan Luo\*, Shaolei Liu, Manning Wang#, Zhijian Song#    
-International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. [paper](https://arxiv.org/abs/2206.08861) [code](https://github.com/miccaiif/DGMIL)
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. [[paper]](https://arxiv.org/abs/2206.08861) [[code]](https://github.com/miccaiif/DGMIL)
 
 * Wavelet-based self-supervised learning for multi-scene image fusion   
 Shaolei Liu\*, **Linhao Qu\***, Manning Wang#, Zhijian Song#    
-Neural Computing and Applications (**IF=5.606**), 2022. [paper](https://link.springer.com/article/10.1007/s00521-022-07242-0) [code](https://github.com/slliuEric/WaveSSL)
+Neural Computing and Applications (**IF=5.606**), 2022. [[paper]](https://link.springer.com/article/10.1007/s00521-022-07242-0) [[code]](https://github.com/slliuEric/WaveSSL)
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
 **Linhao Qu\***, Shaolei Liu\*, Manning Wang#, Zhijian Song#    
-Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI CCF-A**), 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20109) [code](https://github.com/miccaiif/TransMEF)
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI CCF-A**), 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20109) [[code]](https://github.com/miccaiif/TransMEF)
 
 Preprint
 ===
