@@ -16,8 +16,8 @@ I am now a reviewer of top journal Information Fusion (IF=17.564), and top confe
 
 News
 ===
-* One paper has been accepted by **MICCAI** (top conference in medical image processing) !
-* One paper has been accepted by **AAAI** (CCF-A) !
+* *06-03-22 One paper has been accepted by **MICCAI** (top conference in medical image processing) !*
+* *12-01-21 One paper has been accepted by **AAAI** (CCF-A) !*
 
 Publications
 ===
