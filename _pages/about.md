@@ -55,8 +55,6 @@ Honors & Awards
 * National Scholarship, Ocean University of China, 2017.09 and 2019.09
 * National First Prize, China Undergraduate Mathematical Contest in Modeling, 2018.09
 
-> CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=185981)
-
-> TH-CPL refers to the 'List of recommended academic conferences and journals in computer science of Tsinghua University'. [[TH-CPL]](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
-
-> CAA refers to the 'List of recommended academic conferences and journals of Chinese Association of Automation'. [[CAA]](https://www.caa.org.cn/Uploads/image/file/20211210/20211210134833_31235.pdf) 
+> CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=185981)  
+> TH-CPL refers to the 'List of recommended academic conferences and journals in computer science of Tsinghua University'. [[TH-CPL]](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)  
+> CAA refers to the 'List of recommended academic conferences and journals of Chinese Association of Automation'. [[CAA]](https://www.caa.org.cn/Uploads/image/file/20211210/20211210134833_31235.pdf)
