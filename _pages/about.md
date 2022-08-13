@@ -12,19 +12,19 @@ I am a Ph.D. student of biomedical engineering in Shanghai Key Laboratory of 
 
 My research interests include medical image processing, information fusion and data mining.
 
-I am now a reviewer of top journal Information Fusion (IF=17.564), and top conferences NeurIPS (CCF-A) and AAAI (CCF-A).
+I am now a reviewer of top journal **Information Fusion** (IF=17.564, CAA-A), and top conferences **NeurIPS** (CCF-A, TH-CPL-A) and **AAAI** (CCF-A, TH-CPL-A).
 
 News
 ===
-* *06-03-22 One paper has been accepted by **MICCAI** (top conference in medical image processing) !*
-* *12-01-21 One paper has been accepted by **AAAI** (top conference in Artificial Intelligence, CCF-A) !*
+* *06-03-22 One paper has been accepted by **MICCAI** (top conference in medical image processing, TH-CPL-B) !*
+* *12-01-21 One paper has been accepted by **AAAI** (top conference in Artificial Intelligence, CCF-A, TH-CPL-A) !*
 
 Publications
 ===
 ### 2022
 * DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
 **Linhao Qu\***, xiaoyuan Luo\*, Shaolei Liu, Manning Wang#, Zhijian Song#    
-International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. [[paper]](https://arxiv.org/abs/2206.08861) [[code]](https://github.com/miccaiif/DGMIL)
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*TH-CPL-B) [[paper]](https://arxiv.org/abs/2206.08861) [[code]](https://github.com/miccaiif/DGMIL)
 
 * Wavelet-based self-supervised learning for multi-scene image fusion   
 Shaolei Liu\*, **Linhao Qu\***, Manning Wang#, Zhijian Song#    
@@ -32,7 +32,7 @@ Neural Computing and Applications (**IF=5.606**), 2022. [[paper]](https://link.s
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
 **Linhao Qu\***, Shaolei Liu\*, Manning Wang#, Zhijian Song#    
-Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI CCF-A**), 2022. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20109) [[code]](https://github.com/miccaiif/TransMEF)
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (*CCF-A) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20109) [[code]](https://github.com/miccaiif/TransMEF)
 
 Preprint
 ===
@@ -49,3 +49,7 @@ Honors & Awards
 * Outstanding Bachelor's Thesis, Ocean University of China, 2020.06
 * National Scholarship, Ocean University of China, 2017.09 and 2019.09
 * National First Prize, China Undergraduate Mathematical Contest in Modeling, 2018.09
+
+> CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=185981)
+> TH-CPL refers to the 'List of recommended academic conferences and journals in computer science of Tsinghua University'. [[TH-CPL]](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)
+> CAA refers to the 'List of recommended academic conferences and journals of Chinese Association of Automation'. [[CAA]](https://www.caa.org.cn/Uploads/image/file/20211210/20211210134833_31235.pdf) 
