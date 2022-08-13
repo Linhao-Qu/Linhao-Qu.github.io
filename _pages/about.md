@@ -35,7 +35,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 Shaolei Liu\*, **Linhao Qu\***, Manning Wang#, Zhijian Song#    
 Neural Computing and Applications (**IF=5.606**), 2022. (*CCF-C*) [[paper]](https://link.springer.com/article/10.1007/s00521-022-07242-0) [[code]](https://github.com/slliuEric/WaveSSL)
 
-* Prediction Model of Hemorrhage Transformation in Patient with Acute Ischemic Stroke Based on Multiparametric MRI Radiomics and Machine Learning
+* Prediction Model of Hemorrhage Transformation in Patient with Acute Ischemic Stroke Based on Multiparametric MRI Radiomics and Machine Learning  
 Yucong Meng\*, Haoran Wang\*, Chuanfu Wu\*, Xiaoyu Liu, **Linhao Qu**, Yonghong Shi#    
 Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/7/858)
 
