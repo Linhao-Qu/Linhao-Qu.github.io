@@ -42,13 +42,13 @@ Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/
 Preprint
 ===
 ### 2022
-* Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]
+* Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
 **Linhao Qu\***, Siyu Liu, Xiaoyu Liu, Manning Wang#, Zhijian Song#  
-arXiv preprint arXiv:2208.08789, 2022.[[paper]](https://arxiv.org/abs/2208.08789)
+arXiv preprint arXiv:2208.08789, 2022. [[paper]](https://arxiv.org/abs/2208.08789)
 
 * TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
 **Linhao Qu\***, Shaolei Liu\*, Manning Wang, Shiman Li, Siqi Yin, Qin Qiao#, Zhijian Song#  
-arXiv preprint arXiv:2201.07451, 2022.[[paper]](https://arxiv.org/abs/2201.07451)
+arXiv preprint arXiv:2201.07451, 2022. [[paper]](https://arxiv.org/abs/2201.07451)
 
 Honors & Awards
 ===
