@@ -12,7 +12,7 @@ I am a Ph.D. student of biomedical engineering in Shanghai Key Laboratory of 
 
 My research interests include medical image processing, information fusion and data mining.
 
-I am now a reviewer of top journal **Information Fusion** (IF=17.564, *CAA-A*), and top conferences **NeurIPS** (*CCF-A*, *TH-CPL-A*) and **AAAI** (*CCF-A*, *TH-CPL-A*).
+I am now a reviewer of top journal **Information Fusion** (IF=17.564), and top conferences **NeurIPS** (*CCF-A*, *TH-CPL-A*) and **AAAI** (*CCF-A*, *TH-CPL-A*).
 
 News
 ===
@@ -42,9 +42,13 @@ Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/
 Preprint
 ===
 ### 2022
+* Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]
+**Linhao Qu\***, Siyu Liu, Xiaoyu Liu, Manning Wang#, Zhijian Song#  
+arXiv preprint arXiv:2208.08789, 2022.[[paper]](https://arxiv.org/abs/2208.08789)
+
 * TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
 **Linhao Qu\***, Shaolei Liu\*, Manning Wang, Shiman Li, Siqi Yin, Qin Qiao#, Zhijian Song#  
-arXiv preprint arXiv:2201.07451, 2022.
+arXiv preprint arXiv:2201.07451, 2022.[[paper]](https://arxiv.org/abs/2201.07451)
 
 Honors & Awards
 ===
@@ -57,4 +61,3 @@ Honors & Awards
 
 > CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=185981)  
 > TH-CPL refers to the 'List of recommended academic conferences and journals in computer science of Tsinghua University'. [[TH-CPL]](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)  
-> CAA refers to the 'List of recommended academic conferences and journals of Chinese Association of Automation'. [[CAA]](https://www.caa.org.cn/Uploads/image/file/20211210/20211210134833_31235.pdf)
