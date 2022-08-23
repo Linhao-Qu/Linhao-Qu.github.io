@@ -61,3 +61,4 @@ Honors & Awards
 
 > CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=185981)  
 > TH-CPL refers to the 'List of recommended academic conferences and journals in computer science of Tsinghua University'. [[TH-CPL]](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)  
+> \* refers to first authors and # refers to corresponding authors.
