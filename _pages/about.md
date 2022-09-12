@@ -16,6 +16,7 @@ I am now a reviewer of top journal **Information Fusion** (IF=17.564), and top c
 
 News
 ===
+* *09-09-22 The invited topical review has been accepted by **Physics in Medicine & Biology** (IF=4.174) !*
 * *06-03-22 One paper has been accepted by **MICCAI** (top conference in medical image processing, TH-CPL-B) !*
 * *12-01-21 One paper has been accepted by **AAAI** (top conference in Artificial Intelligence, CCF-A, TH-CPL-A) !*
 
@@ -31,6 +32,10 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022. 
 **Linhao Qu\***, xiaoyuan Luo\*, Shaolei Liu, Manning Wang#, Zhijian Song#    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*TH-CPL-B*) [[paper]](https://arxiv.org/abs/2206.08861) [[code]](https://github.com/miccaiif/DGMIL)
 
+* Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
+**Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang#, Zhijian Song#  
+Physics in Medicine & Biology (**IF=4.174**), 2022. [[DOI]](https://doi.org/10.1088/1361-6560/ac910a) [[paper]](https://arxiv.org/abs/2208.08789)
+
 * Wavelet-based self-supervised learning for multi-scene image fusion   
 Shaolei Liu\*, **Linhao Qu\***, Manning Wang#, Zhijian Song#    
 Neural Computing and Applications (**IF=5.606**), 2022. (*CCF-C*) [[paper]](https://link.springer.com/article/10.1007/s00521-022-07242-0) [[code]](https://github.com/slliuEric/WaveSSL)
@@ -42,10 +47,6 @@ Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/
 Preprint
 ===
 ### 2022
-* Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
-**Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang#, Zhijian Song#  
-arXiv preprint arXiv:2208.08789, 2022. [[paper]](https://arxiv.org/abs/2208.08789)
-
 * TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
 **Linhao Qu\***, Shaolei Liu\*, Manning Wang, Shiman Li, Siqi Yin, Qin Qiao#, Zhijian Song#  
 arXiv preprint arXiv:2201.07451, 2022. [[paper]](https://arxiv.org/abs/2201.07451)
