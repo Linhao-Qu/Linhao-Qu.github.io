@@ -25,7 +25,7 @@ Publications
 ===
 ### 2022
 * Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
-**Linhao Qu#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
+**Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (*CCF-A*) 
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
