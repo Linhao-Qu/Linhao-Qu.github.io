@@ -34,7 +34,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022. 
 
 * DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
 **Linhao Qu#**, xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
-International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*TH-CPL-B*) [[paper]](https://arxiv.org/abs/2206.08861) [[code]](https://github.com/miccaiif/DGMIL)
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*TH-CPL-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
 
 * Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
 **Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*  
