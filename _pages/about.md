@@ -24,7 +24,7 @@ News
 Publications
 ===
 ### 2022
-* Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
+* Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
 **Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
 
