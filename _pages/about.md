@@ -16,17 +16,23 @@ I am now a reviewer of top journal **Information Fusion** (IF=17.564), and top c
 
 News
 ===
-* *09-15-22 One paper has been accepted by **NeurIPS 2022** (top conference in Machine Learning, CCF-A, TH-CPL-A) !*
+* *12-02-22 One paper has been accepted by **Information Fusion** (top journal in Information Fusion IF=17.564) !*
+* *11-21-22 One paper has been accepted by **AAAI 2023** (top conference in Artificial Intelligence, CCF-A) !*
+* *09-15-22 One paper has been accepted by **NeurIPS 2022 ORAL** (top conference in Machine Learning, CCF-A) !*
 * *09-09-22 An invited topical review has been accepted by **Physics in Medicine & Biology** (IF=4.174) !*
-* *06-03-22 One paper has been accepted by **MICCAI 2022** (top conference in Medical Image Processing, TH-CPL-B) !*
-* *12-01-21 One paper has been accepted by **AAAI 2022** (top conference in Artificial Intelligence, CCF-A, TH-CPL-A) !*
+  * *06-03-22 One paper has been accepted by **MICCAI 2022** (top conference in Medical Image Processing, CCF-B) !*
+* *12-01-21 One paper has been accepted by **AAAI 2022** (top conference in Artificial Intelligence, CCF-A) !*
 
 Publications
 ===
 ### 2022
 * Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
 **Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
-Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
+Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS ORAL**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
+
+* Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning 
+**Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
+Information Fusion (**IF=17.564**), 2022. 
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*    
@@ -34,7 +40,11 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022. 
 
 * DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
 **Linhao Qu#**, xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
-International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*TH-CPL-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*CCF-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
+
+* Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation   
+Shaolei Liu, Siqi Yin, **Linhao Qu**, Manning Wang\*, Zhijian Song\*    
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (*CCF-A*)
 
 * Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
 **Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*  
@@ -64,6 +74,5 @@ Honors & Awards
 * National Scholarship, Ocean University of China, 2017.09 and 2019.09
 * National First Prize, China Undergraduate Mathematical Contest in Modeling, 2018.09
 
-> CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=185981)  
-> TH-CPL refers to the 'List of recommended academic conferences and journals in computer science of Tsinghua University'. [[TH-CPL]](https://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf)  
+> CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf)  
 > \# refers to multiple first authors and * refers to multiple corresponding authors.
