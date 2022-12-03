@@ -10,9 +10,7 @@ redirect_from:
 
 I am a Ph.D. student of biomedical engineering in Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention, Digital Medical Research Center, School of Basic Medical Sciences, Fudan University, advised by Prof. Zhijian Song and Prof. Manning Wang. Before that, I received my B.S. degree from Ocean University of China in 2020.
 
-My research interests include medical image processing, information fusion and data mining.
-
-I am now a reviewer of top journal **Information Fusion** (IF=17.564), and top conferences **NeurIPS** (*CCF-A*, *TH-CPL-A*) and **AAAI** (*CCF-A*, *TH-CPL-A*).
+My research interests include medical image processing, information fusion and data mining. ([[Google Scholar]](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
 
 News
 ===
@@ -30,7 +28,7 @@ Publications
 **Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS ORAL**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
 
-* Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning 
+* Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
 Information Fusion (**IF=17.564**), 2022. 
 
