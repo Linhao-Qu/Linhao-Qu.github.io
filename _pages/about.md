@@ -20,7 +20,7 @@ News
 * *11-21-22 One paper has been accepted by **AAAI 2023** (top conference in Artificial Intelligence, CCF-A) !*
 * *09-15-22 One paper has been accepted by **NeurIPS 2022 ORAL** (top conference in Machine Learning, CCF-A) !*
 * *09-09-22 An invited topical review has been accepted by **Physics in Medicine & Biology** (IF=4.174) !*
-  * *06-03-22 One paper has been accepted by **MICCAI 2022** (top conference in Medical Image Processing, CCF-B) !*
+* *06-03-22 One paper has been accepted by **MICCAI 2022** (top conference in Medical Image Processing, CCF-B) !*
 * *12-01-21 One paper has been accepted by **AAAI 2022** (top conference in Artificial Intelligence, CCF-A) !*
 
 Publications
@@ -42,13 +42,13 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022. 
 **Linhao Qu#**, xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*CCF-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
 
-* Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation   
-Shaolei Liu, Siqi Yin, **Linhao Qu**, Manning Wang\*, Zhijian Song\*    
-Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (*CCF-A*)
-
 * Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
 **Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*  
 Physics in Medicine & Biology (**IF=4.174**), 2022. [[DOI]](https://doi.org/10.1088/1361-6560/ac910a) [[paper]](https://arxiv.org/abs/2208.08789)
+
+* Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation   
+Shaolei Liu, Siqi Yin, **Linhao Qu**, Manning Wang\*, Zhijian Song\*    
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (*CCF-A*)
 
 * Wavelet-based self-supervised learning for multi-scene image fusion   
 Shaolei Liu#, **Linhao Qu#**, Manning Wang\*, Zhijian Song\*    
@@ -73,6 +73,15 @@ Honors & Awards
 * Outstanding Bachelor's Thesis, Ocean University of China, 2020.06
 * National Scholarship, Ocean University of China, 2017.09 and 2019.09
 * National First Prize, China Undergraduate Mathematical Contest in Modeling, 2018.09
+
+Regular Reviewer
+===
+* NeurIPS (CCF-A)
+* AAAI (CCF-A)
+* MICCAI (CCF-B)
+* Information Fusion (IF=17.564)
+* IEEE Transactions on Multimedia (IF=8.182)
+* IEEE Transactions on Circuits and Systems for Video Technology (IF=5.859)
 
 > CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf)  
 > \# refers to multiple first authors and * refers to multiple corresponding authors.
