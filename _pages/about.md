@@ -46,7 +46,7 @@ Physics in Medicine & Biology (**IF=4.174**), 2022. [[DOI]](https://doi.org/10.1
 
 * Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation   
 Shaolei Liu, Siqi Yin, **Linhao Qu**, Manning Wang\*, Zhijian Song\*    
-Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (*CCF-A*)
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (*CCF-A*) [[paper]](https://arxiv.org/abs/2211.15235)
 
 * Wavelet-based self-supervised learning for multi-scene image fusion   
 Shaolei Liu#, **Linhao Qu#**, Manning Wang\*, Zhijian Song\*    
