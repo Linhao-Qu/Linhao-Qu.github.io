@@ -30,7 +30,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS ORAL
 
 * Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
-Information Fusion (**IF=17.564**), 2022. 
+Information Fusion (**IF=17.564**), 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002494?dgcid=coauthor) [[code]](https://github.com/miccaiif/FCMEF)
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*    
