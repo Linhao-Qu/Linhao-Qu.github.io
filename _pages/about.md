@@ -60,7 +60,7 @@ Preprint
 ===
 ### 2023
 * Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation   
-Xiaoyu Liu#, **Linhao Qu#**, Ziyue Xie, Jiayue Zhao, Yonghong Shi\*, Zhijian Song\*
+Xiaoyu Liu#, **Linhao Qu#**, Ziyue Xie, Jiayue Zhao, Yonghong Shi\*, Zhijian Song\* 
 arXiv preprint arXiv:2303.00232, 2023. [[paper]](https://arxiv.org/abs/2303.00232)
 
 ### 2022
