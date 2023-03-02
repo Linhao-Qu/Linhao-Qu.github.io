@@ -58,6 +58,11 @@ Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/
 
 Preprint
 ===
+### 2023
+* Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation   
+Xiaoyu Liu#, **Linhao Qu#**, Ziyue Xie, Jiayue Zhao, Yonghong Shi\*, Zhijian Song\*
+arXiv preprint arXiv:2303.00232, 2023. [[paper]](https://arxiv.org/abs/2303.00232)
+
 ### 2022
 * TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Qin Qiao\*, Zhijian Song\*  
