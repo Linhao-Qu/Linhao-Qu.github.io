@@ -27,7 +27,7 @@ Publications
 ### 2023
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
 **Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
-Expert Systems With Applications (**IF=8.665**), 2023.
+Expert Systems With Applications (**IF=8.665**), 2023. (*CCF-C*)
 
 ### 2022
 * Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
