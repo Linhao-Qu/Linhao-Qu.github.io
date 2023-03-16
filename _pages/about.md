@@ -14,6 +14,7 @@ My research interests include medical image processing, information fusion and d
 
 News
 ===
+* *03-16-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.665) !*
 * *12-02-22 One paper has been accepted by **Information Fusion** (top journal in Information Fusion IF=17.564) !*
 * *11-21-22 One paper has been accepted by **AAAI 2023** (top conference in Artificial Intelligence, CCF-A) !*
 * *09-15-22 One paper has been accepted by **NeurIPS 2022 ORAL** (top conference in Machine Learning, CCF-A) !*
@@ -23,6 +24,11 @@ News
 
 Publications
 ===
+### 2023
+* AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
+**Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
+Expert Systems With Applications (**IF=8.665**), 2023.
+
 ### 2022
 * Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
 **Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
