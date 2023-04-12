@@ -91,6 +91,14 @@ Regular Reviewer
 * Information Fusion (IF=17.564)
 * IEEE Transactions on Multimedia (IF=8.182)
 * IEEE Transactions on Circuits and Systems for Video Technology (IF=5.859)
+* NEUROCOMPUTING (IF=5.779)
 
-> CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf)  
+Major Academic Presentations
+===
+* AITimes NeurIPS 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1XT411S7XX/?buvid=XYDD8C0DE63E4A4B2D670A07D1686C9AD785E&is_story_h5=false&mid=lVabSomKEmqYwodmqWa%2B0A%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b1c40d68-8c2b-4415-95ba-de94ea0c4520&share_source=WEIXIN&share_tag=s_i&timestamp=1677295309&unique_k=bWCsgTm&up_id=503316308)
+* The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report. [[Link]](https://www.bilibili.com/video/BV1ce4y1m73D/?spm_id_from=333.337.search-card.all.click&vd_source=1c5c077ec8f5963630d670367df4bc19)
+* AITimes AAAI 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1Va411j73F/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309)
+
+
+> CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=399EE5B1A60F77AA4DAF5A45DED5B9DD12BFF0036816BF2BB3CD410B5EC529F8)  
 > \# refers to multiple first authors and * refers to multiple corresponding authors.
