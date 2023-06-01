@@ -31,7 +31,7 @@ Publications
 Expert Systems With Applications (**IF=8.665**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104)
 
 * Label Correlation Transformer for Automated Chest X-ray Diagnosis with Reliable Interpretability  
-Zexuan Sun#, **Linhao Qu\#**, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
+Zexuan Sun#, **Linhao Qu\#**, Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
 La radiologia medica (**IF=6.313**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
 
 ### 2022
