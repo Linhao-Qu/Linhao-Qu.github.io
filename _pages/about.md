@@ -74,10 +74,12 @@ Preprint
 ===
 ### 2023
 * The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification
+
 **Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*  
 arXiv preprint arXiv:2305.17891, 2023. [[paper]](https://arxiv.org/abs/2305.17891)
 
 * Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement
+
 **Linhao Qu#**, Minghong Duan#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*  
 arXiv preprint arXiv:2305.17891, 2023. [[paper]](https://arxiv.org/abs/2304.04238)
 
