@@ -73,13 +73,13 @@ Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/
 Preprint
 ===
 ### 2023
-* The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification 
+* The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification      
 **Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*  
 arXiv preprint arXiv:2305.17891, 2023. [[paper]](https://arxiv.org/abs/2305.17891)
 
-* Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement 
+* Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement        
 **Linhao Qu#**, Minghong Duan#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*  
-arXiv preprint arXiv:2305.17891, 2023. [[paper]](https://arxiv.org/abs/2304.04238)
+arXiv preprint arXiv:2304.04238, 2023. [[paper]](https://arxiv.org/abs/2304.04238)
 
 * Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation   
 Xiaoyu Liu#, **Linhao Qu#**, Ziyue Xie, Jiayue Zhao, Yonghong Shi\*, Zhijian Song\* 
