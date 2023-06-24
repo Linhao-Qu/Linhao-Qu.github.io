@@ -26,7 +26,7 @@ Publications
 ===
 ### 2023
 * OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
-**Linhao Qu#**, yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
+**Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*) 
 
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
