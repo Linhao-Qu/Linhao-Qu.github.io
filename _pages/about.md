@@ -73,9 +73,17 @@ Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/
 Preprint
 ===
 ### 2023
+* The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification
+**Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*  
+arXiv preprint arXiv:2305.17891, 2023. [[paper]](https://arxiv.org/abs/2305.17891)
+
+* Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement
+**Linhao Qu#**, Minghong Duan#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*  
+arXiv preprint arXiv:2305.17891, 2023. [[paper]](https://arxiv.org/abs/2304.04238)
+
 * Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation   
 Xiaoyu Liu#, **Linhao Qu#**, Ziyue Xie, Jiayue Zhao, Yonghong Shi\*, Zhijian Song\* 
-arXiv preprint arXiv:2303.00232, 2023. [[paper]](https://arxiv.org/abs/2303.00232)
+arXiv preprint arXiv:2304.04238, 2023. [[paper]](https://arxiv.org/abs/2303.00232)
 
 ### 2022
 * TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
@@ -104,8 +112,8 @@ Regular Reviewer
 
 Other Key Work
 ===
-* Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm）
-* Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/）
+* Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
+* Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
 
 Major Academic Presentations
 ===
