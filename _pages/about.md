@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of biomedical engineering in Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention, Digital Medical Research Center, School of Basic Medical Sciences, Fudan University, advised by Prof. Zhijian Song and Prof. Manning Wang. Before that, I received my B.S. degree from Ocean University of China in 2020.
-
-My research interests include medical image processing, information fusion and data mining. ([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
+I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 11 papers in internationally recognized academic conferences and journals, with seven of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
 
 News
 ===
+* *06-24-23 One paper has been accepted by **MICCAI 2023** (top conference in Medical Image Processing, CCF-B) !*
 * *05-11-23 One paper has been accepted by **La radiologia medica** (IF=6.313) !*
 * *03-16-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.665) !*
 * *12-02-22 One paper has been accepted by **Information Fusion** (top journal in Information Fusion IF=17.564) !*
@@ -26,6 +25,10 @@ News
 Publications
 ===
 ### 2023
+* OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
+**Linhao Qu#**, yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*) 
+
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
 **Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
 Expert Systems With Applications (**IF=8.665**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104)
@@ -99,11 +102,16 @@ Regular Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology (IF=5.859)
 * NEUROCOMPUTING (IF=5.779)
 
+Other Key Work
+===
+* Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm）
+* Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/）
+
 Major Academic Presentations
 ===
-* AITimes NeurIPS 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1XT411S7XX/?buvid=XYDD8C0DE63E4A4B2D670A07D1686C9AD785E&is_story_h5=false&mid=lVabSomKEmqYwodmqWa%2B0A%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b1c40d68-8c2b-4415-95ba-de94ea0c4520&share_source=WEIXIN&share_tag=s_i&timestamp=1677295309&unique_k=bWCsgTm&up_id=503316308)
+* AI TIME NeurIPS 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1XT411S7XX/?buvid=XYDD8C0DE63E4A4B2D670A07D1686C9AD785E&is_story_h5=false&mid=lVabSomKEmqYwodmqWa%2B0A%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b1c40d68-8c2b-4415-95ba-de94ea0c4520&share_source=WEIXIN&share_tag=s_i&timestamp=1677295309&unique_k=bWCsgTm&up_id=503316308)
 * The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report. [[Link]](https://www.bilibili.com/video/BV1ce4y1m73D/?spm_id_from=333.337.search-card.all.click&vd_source=1c5c077ec8f5963630d670367df4bc19)
-* AITimes AAAI 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1Va411j73F/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309)
+* AI TIME AAAI 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1Va411j73F/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309)
 
 
 > CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=399EE5B1A60F77AA4DAF5A45DED5B9DD12BFF0036816BF2BB3CD410B5EC529F8)  
