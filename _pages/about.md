@@ -13,12 +13,12 @@ I am currently a Ph.D. student in the Digital Medical Research Center, School of
 News
 ===
 * *06-24-23 One paper has been accepted by **MICCAI 2023** (top conference in Medical Image Processing, CCF-B) !*
-* *05-11-23 One paper has been accepted by **La radiologia medica** (IF=6.313) !*
-* *03-16-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.665) !*
-* *12-02-22 One paper has been accepted by **Information Fusion** (top journal in Information Fusion IF=17.564) !*
+* *05-11-23 One paper has been accepted by **La radiologia medica** (IF=8.9) !*
+* *03-16-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.5) !*
+* *12-02-22 One paper has been accepted by **Information Fusion** (top journal in Information Fusion IF=18.6) !*
 * *11-21-22 One paper has been accepted by **AAAI 2023** (top conference in Artificial Intelligence, CCF-A) !*
 * *09-15-22 One paper has been accepted by **NeurIPS 2022 Spotlight** (top conference in Machine Learning, CCF-A) !*
-* *09-09-22 An invited topical review has been accepted by **Physics in Medicine & Biology** (IF=4.174) !*
+* *09-09-22 An invited topical review has been accepted by **Physics in Medicine & Biology** (IF=3.5) !*
 * *06-03-22 One paper has been accepted by **MICCAI 2022** (top conference in Medical Image Processing, CCF-B) !*
 * *12-01-21 One paper has been accepted by **AAAI 2022** (top conference in Artificial Intelligence, CCF-A) !*
 
@@ -31,11 +31,11 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
 **Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
-Expert Systems With Applications (**IF=8.665**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104)
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104)
 
 * Label Correlation Transformer for Automated Chest X-ray Diagnosis with Reliable Interpretability  
 Zexuan Sun#, **Linhao Qu\#**, Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
-La radiologia medica (**IF=6.313**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
+La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
 
 ### 2022
 * Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
@@ -44,7 +44,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS Spot
 
 * Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
-Information Fusion (**IF=17.564**), 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002494?dgcid=coauthor) [[code]](https://github.com/miccaiif/FCMEF)
+Information Fusion (**IF=18.6**), 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002494?dgcid=coauthor) [[code]](https://github.com/miccaiif/FCMEF)
 
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*    
@@ -56,7 +56,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 * Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
 **Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*  
-Physics in Medicine & Biology (**IF=4.174**), 2022. [[DOI]](https://doi.org/10.1088/1361-6560/ac910a) [[paper]](https://arxiv.org/abs/2208.08789)
+Physics in Medicine & Biology (**IF=3.5**), 2022. [[DOI]](https://doi.org/10.1088/1361-6560/ac910a) [[paper]](https://arxiv.org/abs/2208.08789)
 
 * Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation   
 Shaolei Liu, Siqi Yin, **Linhao Qu**, Manning Wang\*, Zhijian Song\*    
@@ -64,11 +64,11 @@ Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023. 
 
 * Wavelet-based self-supervised learning for multi-scene image fusion   
 Shaolei Liu#, **Linhao Qu#**, Manning Wang\*, Zhijian Song\*    
-Neural Computing and Applications (**IF=5.606**), 2022. (*CCF-C*) [[paper]](https://link.springer.com/article/10.1007/s00521-022-07242-0) [[code]](https://github.com/slliuEric/WaveSSL)
+Neural Computing and Applications (**IF=6.0**), 2022. (*CCF-C*) [[paper]](https://link.springer.com/article/10.1007/s00521-022-07242-0) [[code]](https://github.com/slliuEric/WaveSSL)
 
 * Prediction Model of Hemorrhage Transformation in Patient with Acute Ischemic Stroke Based on Multiparametric MRI Radiomics and Machine Learning  
 Yucong Meng#, Haoran Wang#, Chuanfu Wu#, Xiaoyu Liu, **Linhao Qu**, Yonghong Shi\*    
-Brain Sciences (**IF=3.33**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/7/858)
+Brain Sciences (**IF=3.3**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/7/858)
 
 Preprint
 ===
