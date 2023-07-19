@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 11 papers in internationally recognized academic conferences and journals, with seven of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
+I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 12 papers in internationally recognized academic conferences and journals, with more than eight of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
 
 News
 ===
