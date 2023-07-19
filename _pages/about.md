@@ -18,7 +18,7 @@ News
 * *03-16-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.5) !*
 * *12-02-22 One paper has been accepted by **Information Fusion** (top journal in Information Fusion IF=18.6) !*
 * *11-21-22 One paper has been accepted by **AAAI 2023** (top conference in Artificial Intelligence, CCF-A) !*
-* *09-15-22 One paper has been accepted by **NeurIPS 2022 Spotlight** (top conference in Machine Learning, CCF-A) !*
+* *09-15-22 One paper has been accepted by **NeurIPS 2022 Spotlight in TOP 10%** (top conference in Machine Learning, CCF-A) !*
 * *09-09-22 An invited topical review has been accepted by **Physics in Medicine & Biology** (IF=3.5) !*
 * *06-03-22 One paper has been accepted by **MICCAI 2022** (top conference in Medical Image Processing, CCF-B) !*
 * *12-01-21 One paper has been accepted by **AAAI 2022** (top conference in Artificial Intelligence, CCF-A) !*
@@ -45,7 +45,7 @@ La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/art
 ### 2022
 * Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
 **Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
-Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS Spotlight**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
+Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS Spotlight in TOP 10%**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
 
 * Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
