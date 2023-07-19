@@ -12,6 +12,7 @@ I am currently a Ph.D. student in the Digital Medical Research Center, School of
 
 News
 ===
+* *07-17-23 One paper has been accepted by **ICCV 2023** (top conference in Computer Vision, CCF-A) !*
 * *06-24-23 One paper has been accepted by **MICCAI 2023** (top conference in Medical Image Processing, CCF-B) !*
 * *05-11-23 One paper has been accepted by **La radiologia medica** (IF=8.9) !*
 * *03-16-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.5) !*
@@ -25,6 +26,10 @@ News
 Publications
 ===
 ### 2023
+* Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
+**Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
+International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
+
 * OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
 **Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*) 
@@ -110,7 +115,7 @@ Regular Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology (IF=5.859)
 * NEUROCOMPUTING (IF=5.779)
 
-Other Key Work
+Other Key Service
 ===
 * Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
 * Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
