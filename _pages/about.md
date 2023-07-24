@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 12 papers in internationally recognized academic conferences and journals, with more than eight of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
+I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 13 papers in internationally recognized academic conferences and journals, with more than eight of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, ICCV, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, IEEE JBHI, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
 
 News
 ===
@@ -41,6 +41,10 @@ Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https:/
 * Label Correlation Transformer for Automated Chest X-ray Diagnosis with Reliable Interpretability  
 Zexuan Sun#, **Linhao Qu\#**, Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
 La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
+
+* Negative Instance Guided Self-Distillation Framework for Whole Slide Image Analysis  
+**Xiaoyuan Luo\#**, **Linhao Qu**, Qinhao Guo, Zhijian Song\*, Manning Wang\* 
+IEEE Journal of Biomedical and Health Informatics (**IF=7.7**), 2023.
 
 ### 2022
 * Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
