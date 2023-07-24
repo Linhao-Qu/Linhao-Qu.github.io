@@ -43,7 +43,7 @@ Zexuan Sun#, **Linhao Qu\#**, Jiazheng Luo, Zhijian Song\*, Manning Wang\*
 La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
 
 * Negative Instance Guided Self-Distillation Framework for Whole Slide Image Analysis  
-**Xiaoyuan Luo\#**, **Linhao Qu**, Qinhao Guo, Zhijian Song\*, Manning Wang\* 
+Xiaoyuan Luo\#, **Linhao Qu**, Qinhao Guo, Zhijian Song\*, Manning Wang\* 
 IEEE Journal of Biomedical and Health Informatics (**IF=7.7**), 2023.
 
 ### 2022
