@@ -33,7 +33,7 @@ Publications
 Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*)
 
 * Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
-Qinhao Guo#, **Linhao Qu\#**, Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*    
+Qinhao Guo#, **Linhao Qu\#**, Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
 Modern Pathology (**IF=7.5**), 2023.
 
 * Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
