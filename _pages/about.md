@@ -12,6 +12,8 @@ I am currently a Ph.D. student in the Digital Medical Research Center, School of
 
 News
 ===
+* *08-28-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.5) !*
+* *08-27-23 One paper has been accepted by **Modern Pathology** (top journal in Pathology, IF=7.5) !*
 * *07-17-23 One paper has been accepted by **ICCV 2023** (top conference in Computer Vision, CCF-A) !*
 * *06-24-23 One paper has been accepted by **MICCAI 2023** (top conference in Medical Image Processing, CCF-B) !*
 * *05-11-23 One paper has been accepted by **La radiologia medica** (IF=8.9) !*
@@ -26,6 +28,14 @@ News
 Publications
 ===
 ### 2023
+* Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
+**Linhao Qu\#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Zhijian Song\*    
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*)
+
+* Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
+Qinhao Guo#, **Linhao Qu\#**, Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*
+Modern Pathology (**IF=7.5**), 2023.
+
 * Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
 **Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
 International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
