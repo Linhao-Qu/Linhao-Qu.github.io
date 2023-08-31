@@ -37,7 +37,7 @@ International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254)
 
 * Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
-Qinhao Guo#, **Linhao Qu\#** (*Main technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
+Qinhao Guo#, **Linhao Qu\#** (*All technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
 Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext)
 
 * Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
@@ -82,7 +82,7 @@ Shaolei Liu, Siqi Yin, **Linhao Qu**, Manning Wang\*, Zhijian Song\*
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (*CCF-A*) [[paper]](https://arxiv.org/abs/2211.15235)
 
 * Wavelet-based self-supervised learning for multi-scene image fusion   
-Shaolei Liu#, **Linhao Qu#**, Manning Wang\*, Zhijian Song\*    
+Shaolei Liu#, **Linhao Qu#** (*Main technical design and implementation*), Manning Wang\*, Zhijian Song\*    
 Neural Computing and Applications (**IF=6.0**), 2022. (*CCF-C*) [[paper]](https://link.springer.com/article/10.1007/s00521-022-07242-0) [[code]](https://github.com/slliuEric/WaveSSL)
 
 * Prediction Model of Hemorrhage Transformation in Patient with Acute Ischemic Stroke Based on Multiparametric MRI Radiomics and Machine Learning  
