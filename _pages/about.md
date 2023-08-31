@@ -28,7 +28,7 @@ News
 Publications
 ===
 ### 2023
-* :boom: Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
+* &#11088 Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
 **Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
 International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
 
