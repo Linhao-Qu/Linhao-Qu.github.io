@@ -28,15 +28,15 @@ News
 Publications
 ===
 ### 2023
-* &#11088 Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
+* Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
 **Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
 International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
 
-* :boom: OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
+* OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
 **Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254)
 
-* :boom: Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
+* Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
 Qinhao Guo#, **Linhao Qu\#** (*All technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
 Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext)
 
@@ -57,23 +57,23 @@ Xiaoyuan Luo\#, **Linhao Qu**, Qinhao Guo, Zhijian Song\*, Manning Wang\*
 IEEE Journal of Biomedical and Health Informatics (**IF=7.7**), 2023.[[paper]](https://ieeexplore.ieee.org/abstract/document/10195157)
 
 ### 2022
-* :boom: Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
+* Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
 **Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS, Spotlight Presentation in TOP 5%**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
 
-* :boom: Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
+* Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
 Information Fusion (**IF=18.6**), 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002494?dgcid=coauthor) [[code]](https://github.com/miccaiif/FCMEF)
 
-* :boom: TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
+* TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*    
 Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (*CCF-A*) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20109) [[code]](https://github.com/miccaiif/TransMEF)
 
-* :boom: DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
+* DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
 **Linhao Qu#**, xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*CCF-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
 
-* :boom: Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
+* Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
 **Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*  
 Physics in Medicine & Biology (**IF=3.5**), 2022. [[DOI]](https://doi.org/10.1088/1361-6560/ac910a) [[paper]](https://arxiv.org/abs/2208.08789)
 
