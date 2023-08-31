@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 15 papers in internationally recognized academic conferences such as NeurIPS, ICCV, AAAI, MICCAI, and journals such as Information Fusion, IEEE JBHI, Expert Systems With Applications, with more than 10 of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, IEEE JBHI, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
+I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 15 papers in internationally recognized academic conferences such as NeurIPS, ICCV, AAAI, MICCAI, and journals such as Information Fusion, Modern Pathology, IEEE JBHI, Expert Systems With Applications, with more than 10 of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, IEEE JBHI, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
 
 News
 ===
@@ -37,7 +37,7 @@ International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254)
 
 * Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
-Qinhao Guo#, **Linhao Qu\#**, Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
+Qinhao Guo#, **Linhao Qu\#** (*Main technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
 Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext)
 
 * Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
@@ -49,7 +49,7 @@ Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*)
 Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104)
 
 * Label Correlation Transformer for Automated Chest X-ray Diagnosis with Reliable Interpretability  
-Zexuan Sun#, **Linhao Qu\#**, Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
+Zexuan Sun#, **Linhao Qu\#** (*Main technical design and implementation*), Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
 La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
 
 * Negative Instance Guided Self-Distillation Framework for Whole Slide Image Analysis  
