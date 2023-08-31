@@ -28,14 +28,6 @@ News
 Publications
 ===
 ### 2023
-* Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
-**Linhao Qu\#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Zhijian Song\*    
-Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*)
-
-* Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
-Qinhao Guo#, **Linhao Qu\#**, Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
-Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext)
-
 * Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
 **Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
 International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
@@ -43,6 +35,14 @@ International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
 * OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
 **Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254)
+
+* Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
+Qinhao Guo#, **Linhao Qu\#**, Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
+Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext)
+
+* Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
+**Linhao Qu\#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Zhijian Song\*    
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*)
 
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
 **Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
