@@ -126,8 +126,8 @@ Regular Reviewer
 * MICCAI (CCF-B)
 * Information Fusion (IF=17.564)
 * IEEE Transactions on Multimedia (IF=8.182)
-* IEEE Transactions on Circuits and Systems for Video Technology (IF=5.859)
-* NEUROCOMPUTING (IF=5.779)
+* IEEE Transactions on Circuits and Systems for Video Technology (IF=8.5)
+* NEUROCOMPUTING (IF=6.0)
 
 Other Key Service
 ===
