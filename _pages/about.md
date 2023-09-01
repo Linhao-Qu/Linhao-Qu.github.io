@@ -42,7 +42,7 @@ Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/ar
 
 * Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
 **Linhao Qu\#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Zhijian Song\*    
-Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*)
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417423018651?via%3Dihub)
 
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
 **Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
@@ -134,8 +134,9 @@ Other Key Service
 * Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
 * Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
 
-Major Academic Presentations
+Major Academic Talks
 ===
+* AI TIME Academic talk “AI+ Computational Pathology: From State-of-the-art Technology to Clinical Applications" [[Link]](https://www.bilibili.com/video/BV1Nz4y1g7at/)
 * AI TIME NeurIPS 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1XT411S7XX/?buvid=XYDD8C0DE63E4A4B2D670A07D1686C9AD785E&is_story_h5=false&mid=lVabSomKEmqYwodmqWa%2B0A%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b1c40d68-8c2b-4415-95ba-de94ea0c4520&share_source=WEIXIN&share_tag=s_i&timestamp=1677295309&unique_k=bWCsgTm&up_id=503316308)
 * The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report. [[Link]](https://www.bilibili.com/video/BV1ce4y1m73D/?spm_id_from=333.337.search-card.all.click&vd_source=1c5c077ec8f5963630d670367df4bc19)
 * AI TIME AAAI 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1Va411j73F/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309)
