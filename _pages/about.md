@@ -59,11 +59,11 @@ Zexuan Sun#, **Linhao Qu\#** (*Main technical design and implementation*), Jiazh
 La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
 
 * A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation
-Shaolei Liu#, Siqi Yin#, **Linhao Qu**, Manning Wang\*, Zhijian Song\* 
+Shaolei Liu#, Siqi Yin#, **Linhao Qu**, Manning Wang\*, Zhijian Song\*         
 IEEE Transactions on Medical Imaging (**IF=10.3**), 2023.
 
 * Negative Instance Guided Self-Distillation Framework for Whole Slide Image Analysis  
-Xiaoyuan Luo\#, **Linhao Qu**, Qinhao Guo, Zhijian Song\*, Manning Wang\* 
+Xiaoyuan Luo\#, **Linhao Qu**, Qinhao Guo, Zhijian Song\*, Manning Wang\*            
 IEEE Journal of Biomedical and Health Informatics (**IF=7.7**), 2023.[[paper]](https://ieeexplore.ieee.org/abstract/document/10195157)
 
 ### 2022
