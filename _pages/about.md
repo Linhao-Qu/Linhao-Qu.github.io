@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 15 papers in internationally recognized academic conferences such as NeurIPS, ICCV, AAAI, MICCAI, and journals such as Information Fusion, Modern Pathology, IEEE JBHI, Expert Systems With Applications, with more than 10 of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as NeurIPS, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, IEEE JBHI, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
+I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 16 papers in internationally recognized academic conferences such as NeurIPS, ICCV, AAAI, MICCAI, and journals such as Information Fusion, Modern Pathology, IEEE TMI, IEEE JBHI, Expert Systems With Applications, with more than 11 of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as ICLR, NeurIPS, ICCV, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, IEEE JBHI, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
 
 News
 ===
@@ -127,7 +127,9 @@ Honors & Awards
 
 Regular Reviewer
 ===
+* ICLR
 * NeurIPS (CCF-A)
+* ICCV (CCF-A)
 * AAAI (CCF-A)
 * MICCAI (CCF-B)
 * Information Fusion (IF=17.564)
