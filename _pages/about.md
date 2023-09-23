@@ -12,6 +12,8 @@ I am currently a Ph.D. student in the Digital Medical Research Center, School of
 
 News
 ===
+* *09-22-23 One paper has been accepted by **NeurIPS 2023** (top conference in Machine Learning, CCF-A) !*
+* *09-16-23 One paper has been accepted by **IEEE Transactions on Medical Imaging** (top journal in Medical Image Processing IF=10.3) !*
 * *08-28-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.5) !*
 * *08-27-23 One paper has been accepted by **Modern Pathology** (top journal in Pathology, IF=7.5) !*
 * *07-17-23 One paper has been accepted by **ICCV 2023** (top conference in Computer Vision, CCF-A) !*
@@ -28,6 +30,10 @@ News
 Publications
 ===
 ### 2023
+* The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification      
+**Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*
+Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (*CCF-A*) [[paper]](https://arxiv.org/abs/2305.17891) [[code]](https://github.com/miccaiif/TOP)
+
 * Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
 **Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
 International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
@@ -51,6 +57,10 @@ Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https:/
 * Label Correlation Transformer for Automated Chest X-ray Diagnosis with Reliable Interpretability  
 Zexuan Sun#, **Linhao Qu\#** (*Main technical design and implementation*), Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
 La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
+
+* A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation
+Shaolei Liu#, Siqi Yin#, **Linhao Qu**, Manning Wang\*, Zhijian Song\* 
+IEEE Transactions on Medical Imaging (**IF=10.3**), 2023.
 
 * Negative Instance Guided Self-Distillation Framework for Whole Slide Image Analysis  
 Xiaoyuan Luo\#, **Linhao Qu**, Qinhao Guo, Zhijian Song\*, Manning Wang\* 
@@ -92,10 +102,6 @@ Brain Sciences (**IF=3.3**), 2022. [[paper]](https://www.mdpi.com/2076-3425/12/7
 Preprint
 ===
 ### 2023
-* The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification      
-**Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*  
-arXiv preprint arXiv:2305.17891, 2023. [[paper]](https://arxiv.org/abs/2305.17891)
-
 * Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement        
 **Linhao Qu#**, Minghong Duan#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*  
 arXiv preprint arXiv:2304.04238, 2023. [[paper]](https://arxiv.org/abs/2304.04238)
