@@ -31,7 +31,7 @@ Publications
 ===
 ### 2023
 * The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification      
-**Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*
+**Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*   
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (*CCF-A*) [[paper]](https://arxiv.org/abs/2305.17891) [[code]](https://github.com/miccaiif/TOP)
 
 * Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
