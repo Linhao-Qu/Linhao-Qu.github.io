@@ -44,7 +44,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 * Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
 Qinhao Guo#, **Linhao Qu\#** (*All technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
-Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext)
+Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext) [[code]](https://github.com/miccaiif/LNMNet) 
 
 * Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
 **Linhao Qu\#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Zhijian Song\*    
@@ -52,7 +52,7 @@ Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https:/
 
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
 **Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
-Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104)
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104) [[code]](https://github.com/miccaiif/AIM-MEF) 
 
 * Label Correlation Transformer for Automated Chest X-ray Diagnosis with Reliable Interpretability  
 Zexuan Sun#, **Linhao Qu\#** (*Main technical design and implementation*), Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
