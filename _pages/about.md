@@ -58,7 +58,7 @@ Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https:/
 Zexuan Sun#, **Linhao Qu\#** (*Main technical design and implementation*), Jiazheng Luo, Zhijian Song\*, Manning Wang\*    
 La radiologia medica (**IF=8.9**), 2023. [[paper]](https://link.springer.com/article/10.1007/s11547-023-01647-0)
 
-* A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation
+* A Structure-aware Framework of Unsupervised Cross-Modality Domain Adaptation via Frequency and Spatial Knowledge Distillation     
 Shaolei Liu#, Siqi Yin#, **Linhao Qu**, Manning Wang\*, Zhijian Song\*         
 IEEE Transactions on Medical Imaging (**IF=10.3**), 2023.
 
