@@ -117,6 +117,7 @@ arXiv preprint arXiv:2201.07451, 2022. [[paper]](https://arxiv.org/abs/2201.0745
 
 Honors & Awards
 ===
+* National Scholarship (First Prize), 2023.09
 * First Prize, The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report, 2022.10
 * Academic Scholarship, Fudan University, 2021.09
 * Xianghui Scholarship, Fudan University, 2020.09
@@ -139,6 +140,7 @@ Regular Reviewer
 
 Other Key Service
 ===
+* Executive President of Student Union, School of Basic Medicine, Fudan University
 * Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
 * Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
 
