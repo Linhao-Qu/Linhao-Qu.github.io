@@ -111,7 +111,7 @@ Other Key Service
 
 Publications
 ===
-### 2023
+### 2024
 * Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation     
 Zhiwei Yang, Kexue Fu, Minghong Duan, **Linhao Qu**, Shuo Wang\*, Zhijian Song\*
 The IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024. (*CCF-A*) [[paper]](https://arxiv.org/abs/2402.18467)
