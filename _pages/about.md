@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image processing, information fusion and data mining. I have published over 17 papers in internationally recognized academic conferences such as NeurIPS, ICCV, CVPR, AAAI, MICCAI, and journals such as Information Fusion, Modern Pathology, IEEE TMI, IEEE JBHI, Expert Systems With Applications, with more than 11 of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as ICLR, NeurIPS, CVPR, ICCV, ECCV, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, IEEE JBHI, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
+I am currently a Ph.D. student in the Digital Medical Research Center, School of Basic Medical Science at Fudan University (also with the Shanghai Key Laboratory of Medical Imaging Computing and Computer Assisted Intervention), specializing in biomedical engineering. My research focuses on computational pathology, medical image analysis, information fusion and data mining. I have published over 17 papers in internationally recognized academic conferences such as NeurIPS, ICCV, CVPR, AAAI, MICCAI, and journals such as Information Fusion, Modern Pathology, IEEE TMI, IEEE JBHI, Expert Systems With Applications, with more than 11 of them as the first author. Additionally, I have served as a regular reviewer for reputable international conferences such as ICLR, NeurIPS, CVPR, ICCV, ECCV, AAAI, MICCAI, as well as journals including Information Fusion, IEEE TMM, IEEE JBHI, and IEEE TCSVT.([Google Scholar](https://scholar.google.com/citations?user=C8gTFhUAAAAJ&hl=zh-CN))
 
 News
 ===
@@ -96,12 +96,6 @@ Regular Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology (IF=8.5)
 * NEUROCOMPUTING (IF=6.0)
 
-Other Key Service
-===
-* Executive President of Student Union, School of Basic Medicine, Fudan University
-* Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
-* Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
-
 Major Academic Talks
 ===
 * AI TIME Academic talk “AI+ Computational Pathology: From State-of-the-art Technology to Clinical Applications" [[Link]](https://www.bilibili.com/video/BV1Nz4y1g7at/)
@@ -109,8 +103,19 @@ Major Academic Talks
 * The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report. [[Link]](https://www.bilibili.com/video/BV1ce4y1m73D/?spm_id_from=333.337.search-card.all.click&vd_source=1c5c077ec8f5963630d670367df4bc19)
 * AI TIME AAAI 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1Va411j73F/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309)
 
+Other Key Service
+===
+* Executive President of Student Union, School of Basic Medicine, Fudan University
+* Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
+* Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
+
 Publications
 ===
+### 2023
+* Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation     
+Zhiwei Yang, Kexue Fu, Minghong Duan, **Linhao Qu**, Shuo Wang\*, Zhijian Song\*
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**), 2024. (*CCF-A*) [[paper]](https://arxiv.org/abs/2402.18467)
+
 ### 2023
 * The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification      
 **Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*   
