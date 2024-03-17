@@ -27,6 +27,88 @@ News
 * *06-03-22 One paper has been accepted by **MICCAI 2022** (top conference in Medical Image Processing, CCF-B) !*
 * *12-01-21 One paper has been accepted by **AAAI 2022** (top conference in Artificial Intelligence, CCF-A) !*
 
+Representative Publications
+===
+### Medical Image Analysis
+* The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification      
+**Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*   
+Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (*CCF-A*) [[paper]](https://arxiv.org/abs/2305.17891) [[code]](https://github.com/miccaiif/TOP)
+
+* Bi-directional Weakly Supervised Knowledge Distillation for Whole Slide Image Classification   
+**Linhao Qu\#**, Xiaoyuan Luo#, Manning Wang\*, Zhijian Song\*    
+Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS, Spotlight Presentation in TOP 5%**), 2022. (*CCF-A*) [[paper]](https://arxiv.org/abs/2210.03664) [[code]](https://github.com/miccaiif/WENO)
+
+* Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
+**Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
+International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
+
+* DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
+**Linhao Qu#**, xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*CCF-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
+
+* OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
+**Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254)
+
+* Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
+Qinhao Guo#, **Linhao Qu\#** (*All technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
+Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext) [[code]](https://github.com/miccaiif/LNMNet) 
+
+### Image Fusion
+* Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
+**Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
+Information Fusion (**IF=18.6**), 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002494?dgcid=coauthor) [[code]](https://github.com/miccaiif/FCMEF)
+
+* TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning   
+**Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*    
+Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (*CCF-A*) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20109) [[code]](https://github.com/miccaiif/TransMEF)
+
+* Trans2Fuse: Empowering Image Fusion through Self-supervised Learning and Multi-Modal Transformations via Transformer Networks  
+**Linhao Qu\#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Zhijian Song\*    
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417423018651?via%3Dihub)
+
+* AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
+**Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104) [[code]](https://github.com/miccaiif/AIM-MEF) 
+
+Honors & Awards
+===
+* National Scholarship (First Prize), 2023.09
+* First Prize, The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report, 2022.10
+* Academic Scholarship, Fudan University, 2021.09
+* Xianghui Scholarship, Fudan University, 2020.09
+* Outstanding Graduates, Shandong Province, China, 2020.06
+* Outstanding Bachelor's Thesis, Ocean University of China, 2020.06
+* National Scholarship, Ocean University of China, 2017.09 and 2019.09
+* National First Prize, China Undergraduate Mathematical Contest in Modeling, 2018.09
+
+Regular Reviewer
+===
+* ICLR
+* NeurIPS
+* CVPR
+* ICCV
+* AAAI
+* ECCV
+* MICCAI
+* Information Fusion (IF=17.564)
+* IEEE Transactions on Multimedia (IF=8.182)
+* IEEE Transactions on Circuits and Systems for Video Technology (IF=8.5)
+* NEUROCOMPUTING (IF=6.0)
+
+Other Key Service
+===
+* Executive President of Student Union, School of Basic Medicine, Fudan University
+* Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
+* Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
+
+Major Academic Talks
+===
+* AI TIME Academic talk “AI+ Computational Pathology: From State-of-the-art Technology to Clinical Applications" [[Link]](https://www.bilibili.com/video/BV1Nz4y1g7at/)
+* AI TIME NeurIPS 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1XT411S7XX/?buvid=XYDD8C0DE63E4A4B2D670A07D1686C9AD785E&is_story_h5=false&mid=lVabSomKEmqYwodmqWa%2B0A%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b1c40d68-8c2b-4415-95ba-de94ea0c4520&share_source=WEIXIN&share_tag=s_i&timestamp=1677295309&unique_k=bWCsgTm&up_id=503316308)
+* The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report. [[Link]](https://www.bilibili.com/video/BV1ce4y1m73D/?spm_id_from=333.337.search-card.all.click&vd_source=1c5c077ec8f5963630d670367df4bc19)
+* AI TIME AAAI 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1Va411j73F/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309)
+
 Publications
 ===
 ### 2023
@@ -114,44 +196,6 @@ arXiv preprint arXiv:2304.04238, 2023. [[paper]](https://arxiv.org/abs/2303.0023
 * TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang, Shiman Li, Siqi Yin, Qin Qiao\*, Zhijian Song\*  
 arXiv preprint arXiv:2201.07451, 2022. [[paper]](https://arxiv.org/abs/2201.07451)
-
-Honors & Awards
-===
-* National Scholarship (First Prize), 2023.09
-* First Prize, The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report, 2022.10
-* Academic Scholarship, Fudan University, 2021.09
-* Xianghui Scholarship, Fudan University, 2020.09
-* Outstanding Graduates, Shandong Province, China, 2020.06
-* Outstanding Bachelor's Thesis, Ocean University of China, 2020.06
-* National Scholarship, Ocean University of China, 2017.09 and 2019.09
-* National First Prize, China Undergraduate Mathematical Contest in Modeling, 2018.09
-
-Regular Reviewer
-===
-* ICLR
-* NeurIPS
-* CVPR
-* ICCV
-* AAAI
-* ECCV
-* MICCAI
-* Information Fusion (IF=17.564)
-* IEEE Transactions on Multimedia (IF=8.182)
-* IEEE Transactions on Circuits and Systems for Video Technology (IF=8.5)
-* NEUROCOMPUTING (IF=6.0)
-
-Other Key Service
-===
-* Executive President of Student Union, School of Basic Medicine, Fudan University
-* Member of the 1st Student Committee of the China MICS (Medical Imaging Computing Seminar, MICS).[[MICS]](https://aim.nuist.edu.cn/MICS/mics_home.htm)
-* Branch Leader of AI TIME.[[AI TIME]](https://www.aitime.cn/)
-
-Major Academic Talks
-===
-* AI TIME Academic talk “AI+ Computational Pathology: From State-of-the-art Technology to Clinical Applications" [[Link]](https://www.bilibili.com/video/BV1Nz4y1g7at/)
-* AI TIME NeurIPS 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1XT411S7XX/?buvid=XYDD8C0DE63E4A4B2D670A07D1686C9AD785E&is_story_h5=false&mid=lVabSomKEmqYwodmqWa%2B0A%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b1c40d68-8c2b-4415-95ba-de94ea0c4520&share_source=WEIXIN&share_tag=s_i&timestamp=1677295309&unique_k=bWCsgTm&up_id=503316308)
-* The 2nd China Journal of Graphic Arts Graduate Forum (Medical Image Processing Forum) Keynote Report. [[Link]](https://www.bilibili.com/video/BV1ce4y1m73D/?spm_id_from=333.337.search-card.all.click&vd_source=1c5c077ec8f5963630d670367df4bc19)
-* AI TIME AAAI 2022 Special Session Keynote. [[Link]](https://www.bilibili.com/video/BV1Va411j73F/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309)
 
 
 > CCF refers to the 'List of recommended academic conferences and journals of China Computer Federation'. [[CCF]](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=399EE5B1A60F77AA4DAF5A45DED5B9DD12BFF0036816BF2BB3CD410B5EC529F8)  
