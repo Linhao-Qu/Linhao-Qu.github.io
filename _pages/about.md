@@ -40,19 +40,19 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS, Spo
 
 * Boosting Whole Slide Image Classification from the Perspectives of Distribution, Correlation and Magnification   
 **Linhao Qu#**, Zhiwei Yang#, Minghong Duan, Yingfan Ma, Shuo Wang, Manning Wang\*, Zhijian Song\*    
-International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*)
+International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qu_Boosting_Whole_Slide_Image_Classification_from_the_Perspectives_of_Distribution_ICCV_2023_paper.pdf) [[code]](https://github.com/miccaiif/MILBooster)
 
 * DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
-**Linhao Qu#**, xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
+**Linhao Qu#**, Xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*CCF-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
 
 * OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
 **Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
-International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254)
+International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254) [[code]](https://github.com/miccaiif/OpenAL)
 
 * Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
 Qinhao Guo#, **Linhao Qu\#** (*All technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
-Modern Pathology (**IF=7.5**), 2023.[[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext) [[code]](https://github.com/miccaiif/LNMNet) 
+Modern Pathology (**IF=7.5**), 2023. [[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext) [[code]](https://github.com/miccaiif/LNMNet) 
 
 ### Image Fusion
 * Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
