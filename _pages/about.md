@@ -30,8 +30,8 @@ News
 
 Representative Publications
 ===
-### Medical Image Analysis
-## Technical Research
+## Medical Image Analysis
+### Technical Research
 * The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification      
 **Linhao Qu**, Xiaoyuan Luo, Kexue Fu, Manning Wang\*, Zhijian Song\*   
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (*CCF-A*) [[paper]](https://arxiv.org/abs/2305.17891) [[code]](https://github.com/miccaiif/TOP)
@@ -52,7 +52,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2023. (*CCF-B*)  [[paper]](https://arxiv.org/pdf/2307.05254) [[code]](https://github.com/miccaiif/OpenAL)
 
-## Clinical Cooperation
+### Clinical Cooperation
 * Predicting Lymph Node Metastasis from Primary Cervical Cancer Based on Deep Learning in with Histopathological Images  
 Qinhao Guo#, **Linhao Qu\#** (*All technical design and implementation*), Jun Zhu, Haiming Li, Yong Wu, Simin Wang, Min Yu, Jiangchun Wu, Hao Wen, Xingzhu Ju, Xin Wang, Rui Bi\*, Yonghong Shi\*, and Xiaohua Wu\*         
 Modern Pathology (**IF=7.5**), 2023. [[paper]](https://www.modernpathology.org/article/S0893-3952(23)00221-1/fulltext) [[code]](https://github.com/miccaiif/LNMNet) 
@@ -61,8 +61,8 @@ Modern Pathology (**IF=7.5**), 2023. [[paper]](https://www.modernpathology.org/a
 Mengke Ma#, Xixi Zeng#, **Linhao Qu\#** (*All technical design and implementation*), Xia Sheng, Hongzheng Ren, Weixiang Chen, Bin Li, Qinghua You, Li Xiao, Yi Wang, Mei Dai, Boqiang Zhang, Changqing Lu, Weiqi Sheng, and Dan Huang\*         
 The American Journal of Pathology (**IF=6.0**), 2024.
 
-### Image Fusion
-## Technical Research
+## Image Fusion
+### Technical Research
 * Rethinking Multi-Exposure Image Fusion with Extreme and Diverse Exposure Levels: A Robust Framework Based on Fourier Transform and Contrastive Learning   
 **Linhao Qu#**, Shaolei Liu#, Manning Wang\*, Zhijian Song\*   
 Information Fusion (**IF=18.6**), 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S1566253522002494?dgcid=coauthor) [[code]](https://github.com/miccaiif/FCMEF)
