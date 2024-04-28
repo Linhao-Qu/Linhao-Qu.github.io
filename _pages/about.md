@@ -12,6 +12,7 @@ I am currently a Ph.D. student in the Digital Medical Research Center, School of
 
 News
 ===
+* *04-27-24 One paper has been accepted by **American Journal of Pathology** (top journal in Pathology, IF=6.0) !*
 * *09-22-23 One paper has been accepted by **NeurIPS 2023** (top conference in Machine Learning, CCF-A) !*
 * *09-16-23 One paper has been accepted by **IEEE Transactions on Medical Imaging** (top journal in Medical Image Processing IF=10.3) !*
 * *08-28-23 One paper has been accepted by **Expert Systems With Applications** (IF=8.5) !*
