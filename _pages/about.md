@@ -49,7 +49,7 @@ International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*) [[paper]
 **Linhao Qu#**, Xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*CCF-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
 
-* Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need
+* Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need    
 **Linhao Qu\#**, Yingfan Ma, Xiaoyuan Luo, Qinhao Guo, Manning Wang\*, Zhijian Song\*        
 IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024.
 
@@ -127,7 +127,7 @@ Other Key Service
 Publications
 ===
 ### 2024
-* Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need
+* Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need   
 **Linhao Qu\#**, Yingfan Ma, Xiaoyuan Luo, Qinhao Guo, Manning Wang\*, Zhijian Song\*        
 IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024.
 
