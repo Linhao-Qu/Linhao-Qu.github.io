@@ -12,6 +12,7 @@ I am currently a Ph.D. student in the Digital Medical Research Center, School of
 
 News
 ===
+* *05-06-24 One paper has been accepted by **IEEE Transactions on Circuits and Systems for Video Technology** (IF=8.4) !*
 * *04-27-24 One paper has been accepted by **American Journal of Pathology** (top journal in Pathology, IF=6.0) !*
 * *09-22-23 One paper has been accepted by **NeurIPS 2023** (top conference in Machine Learning, CCF-A) !*
 * *09-16-23 One paper has been accepted by **IEEE Transactions on Medical Imaging** (top journal in Medical Image Processing IF=10.3) !*
@@ -47,6 +48,10 @@ International Conference of Computer Vision (**ICCV**), 2023. (*CCF-A*) [[paper]
 * DGMIL: Distribution Guided Multiple Instance Learning for Whole Slide Image Classification   
 **Linhao Qu#**, Xiaoyuan Luo#, Shaolei Liu, Manning Wang\*, Zhijian Song\*    
 International Conference on Medical Image Computing and Computer-Assisted Intervention (**MICCAI**), 2022. (*CCF-B*) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_3#copyright-information) [[code]](https://github.com/miccaiif/DGMIL)
+
+* Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need
+**Linhao Qu\#**, Yingfan Ma, Xiaoyuan Luo, Qinhao Guo, Manning Wang\*, Zhijian Song\*        
+IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024.
 
 * OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
 **Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
@@ -122,6 +127,10 @@ Other Key Service
 Publications
 ===
 ### 2024
+* Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need
+**Linhao Qu\#**, Yingfan Ma, Xiaoyuan Luo, Qinhao Guo, Manning Wang\*, Zhijian Song\*        
+IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024.
+
 * Advancing Automatic Gastritis Diagnosis: An Interpretable Multilabel Deep Learning Framework for the Simultaneous Assessment of Multiple Indicators  
 Mengke Ma#, Xixi Zeng#, **Linhao Qu\#** (*All technical design and implementation*), Xia Sheng, Hongzheng Ren, Weixiang Chen, Bin Li, Qinghua You, Li Xiao, Yi Wang, Mei Dai, Boqiang Zhang, Changqing Lu, Weiqi Sheng, and Dan Huang\*         
 The American Journal of Pathology (**IF=6.0**), 2024.
