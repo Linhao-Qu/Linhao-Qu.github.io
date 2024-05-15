@@ -51,7 +51,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 * Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need    
 **Linhao Qu\#**, Yingfan Ma, Xiaoyuan Luo, Qinhao Guo, Manning Wang\*, Zhijian Song\*        
-IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024.
+IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024. [[paper]](https://arxiv.org/abs/2307.02249v2) [[code]](https://github.com/miccaiif/INS)
 
 * OpenAL: An Efficient Deep Active Learning Framework for Open-Set Histopathology Image Classification   
 **Linhao Qu#**, Yingfan Ma#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*    
@@ -139,7 +139,7 @@ Publications
 ### 2024
 * Rethinking Multiple Instance Learning for Whole Slide Image Classification: A Good Instance Classifier is All You Need   
 **Linhao Qu\#**, Yingfan Ma, Xiaoyuan Luo, Qinhao Guo, Manning Wang\*, Zhijian Song\*        
-IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024.
+IEEE Transactions on Circuits and Systems for Video Technology (**IF=8.4**), 2024. [[paper]](https://arxiv.org/abs/2307.02249v2) [[code]](https://github.com/miccaiif/INS)
 
 * Advancing Automatic Gastritis Diagnosis: An Interpretable Multilabel Deep Learning Framework for the Simultaneous Assessment of Multiple Indicators  
 Mengke Ma#, Xixi Zeng#, **Linhao Qu\#** (*All technical design and implementation*), Xia Sheng, Hongzheng Ren, Weixiang Chen, Bin Li, Qinghua You, Li Xiao, Yi Wang, Mei Dai, Boqiang Zhang, Changqing Lu, Weiqi Sheng, and Dan Huang\*         
