@@ -82,7 +82,17 @@ Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https:/
 
 * AIM-MEF: Multi-Exposure Image Fusion Based on Adaptive Information Mining in Both Spatial and Frequency Domains  
 **Linhao Qu\#**, Siqi Yin#, Shaolei Liu#, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*    
-Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104) [[code]](https://github.com/miccaiif/AIM-MEF) 
+Expert Systems With Applications (**IF=8.5**), 2023. (*CCF-C*) [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423004104) [[code]](https://github.com/miccaiif/AIM-MEF)
+
+## Topic Survey
+* Towards Label-efficient Automatic Diagnosis and Analysis: A Comprehensive Survey of Advanced Deep Learning-based Weakly-supervised, Semi-supervised and Self-supervised Techniques in Histopathological Image Analysis [**Invited topical review**]  
+**Linhao Qu**, Siyu Liu, Xiaoyu Liu, Manning Wang\*, Zhijian Song\*  
+Physics in Medicine & Biology (**IF=3.5**), 2022. [[DOI]](https://doi.org/10.1088/1361-6560/ac910a) [[paper]](https://arxiv.org/abs/2208.08789)
+
+* Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation   
+Xiaoyu Liu#, **Linhao Qu#**, Ziyue Xie, Jiayue Zhao, Yonghong Shi\*, Zhijian Song\* 
+Biomedical Engineering Online (**IF=3.9**). [[paper]](https://arxiv.org/abs/2303.00232)
+
 
 Honors & Awards
 ===
@@ -215,10 +225,6 @@ Preprint
 * Towards Arbitrary-scale Histopathology Image Super-resolution: An Efficient Dual-branch Framework based on Implicit Self-texture Enhancement        
 **Linhao Qu#**, Minghong Duan#, Zhiwei Yang, Manning Wang\*, Zhijian Song\*  
 arXiv preprint arXiv:2304.04238, 2023. [[paper]](https://arxiv.org/abs/2304.04238)
-
-* Towards more precise automatic analysis: a comprehensive survey of deep learning-based multi-organ segmentation   
-Xiaoyu Liu#, **Linhao Qu#**, Ziyue Xie, Jiayue Zhao, Yonghong Shi\*, Zhijian Song\* 
-arXiv preprint arXiv:2304.04238, 2023. [[paper]](https://arxiv.org/abs/2303.00232)
 
 ### 2022
 * TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning   
